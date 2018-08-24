@@ -1,4 +1,4 @@
-<!-- blog1 template-->
+<!-- blog1 -->
 <!DOCTYPE html>
 <html>
     <head>
